@@ -8,6 +8,11 @@ body {
 }
 
 
+.name{
+
+text-align: center;
+
+}
 h1 {
     color: #0e7ff0;
 }
@@ -19,7 +24,7 @@ h2 {
 
 p {
     line-height: 2.5;
-    text-decoration: double;
+    font-weight: bold;
 }
 
 
